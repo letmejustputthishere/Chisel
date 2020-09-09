@@ -28,7 +28,7 @@ Standard code editors are textual editors, meaning you write text that is then p
 MPS is a projectional editor, meaning you directly specify the AST, no parsing and compiling needed.
 This entails that the structure of your code is quite strictly predefined.
 
-Everytime you see red underlined code and the message "Error: Abstract conecpt instance detected. Use one of sub-concepts instead.", you are probably not adhering to this strucure. 
+Everytime you see red underlined code and the message "Error: Abstract concept instance detected. Use one of sub-concepts instead.", you are probably not adhering to this strucure. 
 Be aware that you might not *see* a difference between your code and the correctly structured code, as is demonstrated in the following screenshot.
 ![Chisel projectional](screenshots/Tutorial/07_projectional.png)
 
